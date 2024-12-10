@@ -13,7 +13,7 @@
             for (int i = 2; i <= m; i++)
             {
                 isPrime[i] = true;
-            }
+            } 
 
             for (int i = 2; i * i <= m; i++)
             {
